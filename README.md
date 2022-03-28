@@ -48,7 +48,7 @@ With npm:
 - Run `npm install`
 - Run `npm test`
 
-
+![code](https://user-images.githubusercontent.com/45575016/160502985-d28c32de-7b52-4ef0-af4a-05ed7cc09fea.gif)
 
 # Fully passing Screen Shot:
 

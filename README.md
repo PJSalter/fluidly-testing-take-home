@@ -1,5 +1,7 @@
 # fluidly-testing-take-home
 
+![mr-robot-hack](https://user-images.githubusercontent.com/45575016/160502904-e61103bd-1bc7-4ac4-a81c-d028ff84cc60.gif)
+
 ## The challenge
 
 The aim of this exercise is to demonstrate your problem solving and understanding of JavaScript by implementing something found in every unit testing tool - an "assertEquals" method.

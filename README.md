@@ -1,4 +1,4 @@
-# fluidly-testing-take-home
+# fluidly-testing-take-home 🧩
 
 ![mr-robot-hack](https://user-images.githubusercontent.com/45575016/160502904-e61103bd-1bc7-4ac4-a81c-d028ff84cc60.gif)
 
@@ -50,6 +50,6 @@ With npm:
 
 ![code](https://user-images.githubusercontent.com/45575016/160502985-d28c32de-7b52-4ef0-af4a-05ed7cc09fea.gif)
 
-# Fully passing Screen Shot:
+# ✨ Fully passing Screen Shot:
 
 <img width="506" alt="Screenshot 2022-03-28 at 21 32 05" src="https://user-images.githubusercontent.com/45575016/160482213-955b1046-4f56-4889-8e97-92f83e363a90.png">
